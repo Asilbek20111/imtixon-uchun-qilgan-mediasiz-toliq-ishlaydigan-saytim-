@@ -36,10 +36,16 @@
 .add-to {
     width: 100%;
     height: 25px;
-    color: red;
+    background-color: cadetblue;
     margin-top: 15px;
-
+    border-radius: 5px;
+    border: none;
+    transition: all 0.3s linear;
+    &:hover{
+        background-color: rgba(95, 158, 160, 0.704);
+    }
 }
+
 
 
 .divv {
