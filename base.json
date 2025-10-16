@@ -1,0 +1,160 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Yengil Sumka",
+      "description": "Yengil va qulay sumka, har qanday vaziyatda foydalanish uchun juda yaxshi.",
+      "stars": 4.5,
+      "category": "Sumka",
+      "price": 150000,
+      "images": [
+        "https://images.uzum.uz/cr42o4esbq7g1s9aevi0/original.jpg",
+        "https://images.uzum.uz/cr42oaniraat934qjnf0/original.jpg"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Sumka Yo'lboshchi",
+      "description": "Yuqori sifatli materiallardan tayyorlangan yo'lboshchi sumka.",
+      "stars": 4.9,
+      "category": "Sumka",
+      "price": 350000,
+      "images": [
+        "https://images.uzum.uz/coqcrcbmdtjlpksc1ks0/original.jpg",
+        "https://images.uzum.uz/coqcra7j2e4ghqnpn5hg/original.jpg"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Sumka Sade Model",
+      "description": "Oddiy va qulay sumka, minimalizmni yaxshi ko'radiganlar uchun.",
+      "stars": 4.6,
+      "category": "Sumka",
+      "price": 130000,
+      "images": [
+        "https://images.uzum.uz/cijv9st40v9pplt5ekgg/original.jpg",
+        "https://images.uzum.uz/cjkc99jk9fqacmkvfpng/original.jpg"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Samsung Galaxy S22",
+      "description": "Samsung Galaxy S22 smartfoni, 120Hz ekrani va 50MP kamerasi bilan.",
+      "stars": 4.8,
+      "category": "Telefon",
+      "price": 4000000,
+      "images": [
+        "https://m.media-amazon.com/images/I/61WIscqToHL.jpg",
+        "https://m.media-amazon.com/images/I/61thQ4Em3eL._AC_SL1000_.jpg"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "iPhone 13 Pro",
+      "description": "Apple iPhone 13 Pro, tezkor ishlash va mukammal dizayn.",
+      "stars": 5,
+      "category": "Telefon",
+      "price": 4500000,
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu3NzrsA7ljU41Tfg3keDgdEkUkQC-kargWA&s",
+        "https://w0.peakpx.com/wallpaper/202/657/HD-wallpaper-apple-iphone-13-pro-max-2021-macro.jpg"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Xiaomi Mi 11",
+      "description": "Xiaomi Mi 11, yuqori samarali kamera va kuchli protsessor.",
+      "stars": 4.6,
+      "category": "Telefon",
+      "price": 3000000,
+      "images": [
+        "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666344667.93946102.png",
+        "https://i01.appmifile.com/webfile/globalimg/products/m/mi-11/overview23-s1.jpg"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "OnePlus 9 Pro",
+      "description": "OnePlus 9 Pro, ajoyib dizayn va tezkor quvvatlash.",
+      "stars": 4.7,
+      "category": "Telefon",
+      "price": 3500000,
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQglPalTzjD4Oai7MQKvvo0PCr1DVMdduEJGw&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI6gN4EZ6gWxIy7-LDSkYWvzDtYS6xHB_Gsw&s"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Huawei P40 Pro",
+      "description": "Huawei P40 Pro, 5G qo'llab-quvvatlaydi va juda yaxshi kamera sifatiga ega.",
+      "stars": 4.4,
+      "category": "Telefon",
+      "price": 3300000,
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHIgGy_CAfZ1c3MwOjbEeNAOgNvXPgq7bpWw&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYVEum90ZNP7sxW39YQ8a1Iw1BV_Rv8FD6nw&s"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Shkaf Klassik",
+      "description": "Klassik dizayndagi shkaf, barcha kiyimlaringizni joylashtirish uchun ideal.",
+      "stars": 4.3,
+      "category": "Shkaf",
+      "price": 800000,
+      "images": [
+        "https://frankfurt.apollo.olxcdn.com/v1/files/t4glmqfztnnn1-UZ/image",
+        "https://frankfurt.apollo.olxcdn.com/v1/files/a3a6lwu8j9nu1-UZ/image"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Shkaf Yig'ish uchun",
+      "description": "Kichik va yengil shkaf, kiyimlarni yig'ish uchun ideal variant.",
+      "stars": 4.0,
+      "category": "Shkaf",
+      "price": 600000,
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTymAVMQWrpGcAYKc6MHojy3QLQPQcAgSMMZw&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFiVJe6GvFTHM4e4o6c7sVsvGAR45hG2w5mA&s"
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Yog'ochdan Shkaf",
+      "description": "Tabiiy yog'ochdan yasalgan mustahkam shkaf.",
+      "stars": 4.7,
+      "category": "Shkaf",
+      "price": 900000,
+      "images": [
+        "https://aarsunwoods.com/wp-content/uploads/2022/02/Classic-Wardrobe-in-Solid-Wood-jpg.webp",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF_AR3yFbo4Q8686ZTQ5goNuYTbpXH-jIgLA&s"
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Shkaf Barcha Hujjatlar Uchun",
+      "description": "Kichik va qulay shkaf, hujjatlar va kitoblar uchun ideal.",
+      "stars": 4.5,
+      "category": "Shkaf",
+      "price": 500000,
+      "images": [
+        "https://frankfurt.apollo.olxcdn.com/v1/files/eftpdoftrtnk1-UZ/image;s=800x800",
+        "https://frankfurt.apollo.olxcdn.com/v1/files/nsx1c636nejy1-UZ/image;s=750x754"
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Yuqori Sifatli Shkaf",
+      "description": "Eng yuqori sifatdagi materiallardan tayyorlangan, zamonaviy dizayn.",
+      "stars": 4.8,
+      "category": "Shkaf",
+      "price": 1100000,
+      "images": [
+        "https://frankfurt.apollo.olxcdn.com/v1/files/vpdzkyj6qslv-UZ/image",
+        "https://frankfurt.apollo.olxcdn.com/v1/files/ewyds26foj282-UZ/image;s=1280x1280"
+      ]
+    }
+  ]
+}

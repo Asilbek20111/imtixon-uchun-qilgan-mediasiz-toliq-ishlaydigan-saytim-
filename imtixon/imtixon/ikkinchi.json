@@ -1,0 +1,75 @@
+[
+
+    {
+      "title": "Shkaf Barcha Hujjatlar Uchun",
+      "description": "Kichik va qulay shkaf, hujjatlar va kitoblar uchun ideal.",
+      "stars": 4.5,
+      "category": "Shkaf",
+      "price": 500000,
+      "images": [
+        "https://frankfurt.apollo.olxcdn.com/v1/files/eftpdoftrtnk1-UZ/image;s=800x800",
+        "https://frankfurt.apollo.olxcdn.com/v1/files/nsx1c636nejy1-UZ/image;s=750x754"
+      ]
+    },
+    {
+      "title": "Yuqori Sifatli Shkaf",
+      "description": "Eng yuqori sifatdagi materiallardan tayyorlangan, zamonaviy dizayn.",
+      "stars": 4.8,
+      "category": "Shkaf",
+      "price": 1100000,
+      "images": [
+        "https://frankfurt.apollo.olxcdn.com/v1/files/vpdzkyj6qslv-UZ/image",
+        "https://frankfurt.apollo.olxcdn.com/v1/files/ewyds26foj282-UZ/image;s=1280x1280"
+      ]
+    },
+    {
+      "title": "Ergonomik Stul",
+      "description": "Komfortli va ergonomik stul, uzoq vaqt o'tirish uchun ideal.",
+      "stars": 4.4,
+      "category": "Stul",
+      "price": 250000,
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVOUMwo9Ydh7oUGlIN9EP6m-h1-_1LpZfHyA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA2MFVgbAgayH22q38q3I_QJgle7SSCeLItA&s"
+      ]
+    },
+    {
+      "title": "Ofis Stuli",
+      "description": "Ofisda ishlash uchun qulay va mustahkam stul.",
+      "stars": 4.6,
+      "category": "Stul",
+      "price": 350000,
+      "images": [
+        "https://cdnus.globalso.com/sitzonechair/5%E5%BC%A0%E5%8D%95%E4%BD%93452-592510.jpg",
+        "https://cdnus.globalso.com/sitzonechair/CH-280A-41.jpg"
+      ]
+    },
+    {
+      "title": "Qizil Stul",
+      "description": "Yorqin va ko'zga tashlanadigan qizil stul.",
+      "stars": 4.2,
+      "category": "Stul",
+      "price": 280000,
+      "images": [
+        "https://images.uzum.uz/cof2f7i1om4pepe05rs0/original.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDSdB4fi84QXlgMI9DSAx9LzytaINyRYGmQ&s"
+      ]
+    },
+    {
+      "title": "Eslatma Bloki",
+      "description": "Oson yozish uchun mo'ljallangan eslatma bloki.",
+      "stars": 4.3,
+      "category": "Eslatma",
+      "price": 15000,
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsuUtgn8GtNrCYzq4ff_3eccUG4lFVYOAWOw&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8pndxcBKF4hhkEjiRNPQEiD5b5zJ65yXLaA&s"
+      ]
+
+
+
+
+    }
+
+
+]
