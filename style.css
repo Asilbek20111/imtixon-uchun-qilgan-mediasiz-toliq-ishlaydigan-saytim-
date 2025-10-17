@@ -6,8 +6,9 @@
 
 .bar {
     background-color: rgba(126, 51, 224, 1);
-    width: 100%;
+    width: 1870px;
     height: 44px;
+    margin: auto;
 }
 
 .logoies {
@@ -26,7 +27,7 @@
 }
 
 .container {
-    width: 1920px;
+    width: 1900px;
     margin: auto;
     height: 34px;
     padding: 5px;
@@ -74,7 +75,7 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
-    gap: 50px;
+    gap: 30px;
 }
 
 .item h2 {
@@ -157,8 +158,9 @@
 
 
 .mainKing {
-    width: 100%;
+    width: 1870px;
     height: 764px;
+    margin: auto;
     background-color: rgba(242, 240, 255, 1);
 }
 
@@ -340,9 +342,9 @@
 
 
 .container4 {
-    max-width: 1920px;
+    max-width: 1870px;
     height: 455.59px;
-    margin: 0 auto;
+    margin: auto;
     background-color: rgba(238, 239, 251, 1);
     margin-top: 216px;
 }
@@ -1007,3 +1009,7 @@
 
 
 
+.sofa{
+    width: 400px;
+    height: 400px;
+}
